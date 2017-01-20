@@ -1,5 +1,5 @@
 # material-colorpicker
-A simple, minimalistic and beautiful color picker for Android 4.1+ devices.The library is a clone of the repo https://github.com/4k3R/material-color-picker.
+A simple, minimalistic and beautiful color picker for Android 4.1+ devices.The library is a fork of the repo https://github.com/4k3R/material-color-picker.
 
 Features
 
